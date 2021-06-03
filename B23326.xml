@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short appendix to the life of Edmund Stanton, D.D. wherein some passages are further cleared, which were not so fully held forth by the former authors.</title>
+            <author>Fulman, William, 1632-1688.</author>
+         </titleStmt>
+         <extent>Approx. 23KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B23326</idno><idno type="EEBO-CITATION">19319002</idno>
+  <idno type="VID">205502</idno>
+  <idno type="EEBO-PROQUEST">2240871293</idno>
+  
+            <idno type="STC">Wing F2526</idno>
+            <idno type="OCLC">19319002</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B23326)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205502)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1670:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short appendix to the life of Edmund Stanton, D.D. wherein some passages are further cleared, which were not so fully held forth by the former authors.</title>
+                  <author>Fulman, William, 1632-1688.</author>
+               </titleStmt>
+               <extent>[2], 14 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Fulman by Wing.</note>
+                  <note>Imperfect: tightly bound with slight loss of print.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Stanton, Edmund.</term>
+               <term type="corporate_name">University of Oxford --  Faculty.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205502:1"/>
+            <p>A SHORT APPENDIX TO THE LIFE OF <hi>EDMUND STANTON,</hi> D. D. WHEREIN Some Passages are further Cleared, which were not so fully held forth by the former Authors.</p>
+            <p>
+               <hi>LONDON,</hi> Printed <hi>Anno Dom.</hi> 1673.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:205502:2"/>
+            <pb n="1" facs="tcp:205502:2"/>
+            <head>A Short Appendix to the Life of <hi>EDMƲND STANTON.</hi>
+            </head>
+            <p>SIR, If divers occasions had not inter<g ref="char:EOLhyphen"/>vened, you had sooner seen this short accompt of your Book: which yet, I think, will be large enough to let you see some<g ref="char:EOLhyphen"/>what more than your Authors did intend: whose design, if it were the same with other Writers of <hi>pious Fables,</hi> to set out their sub<g ref="char:EOLhyphen"/>ject, in whatsoever he saith or doth, as holy and heroick; I deny not but they have done their part: But if they intend it, or you take it for an <hi>History,</hi> I must first desire to be satisfied in some few scruples, before I can allow it to be such.</p>
+            <p>And first, The time of his Birth, though there seems to be some mistake in it, is not a matter of such moment, as that I should have looked after it, if it had not met me in another search: Your Author places it in 1600. But <hi>E. S.</hi> when he was admitted<note place="margin">Page 1.</note>
+               <hi>Scholar</hi> of <hi>C. C. C. Octob.</hi> 4. 1615. affirmed that he was not <hi>fourteen</hi> years old till the 20. of that Month; and therefore was not sworn till the 10. of <hi>November</hi> following: At
+<pb n="2" facs="tcp:205502:3"/> which time he took this usual <hi>Oath.</hi>
+            </p>
+            <p>
+               <hi>That he would inviolably keep all the College Statutes, according to the plain and litteral sense and meaning, as far as concerned himself; and as far as in him lay, cause them to be kept by others.</hi>
+            </p>
+            <p>
+               <hi>That he would not admit, obey, or use any or<g ref="char:EOLhyphen"/>ders, injunctions, changes, or expositions contrary thereunto; but oppose and hinder them by what means he could.</hi>
+            </p>
+            <p>
+               <hi>That he would not enter into any conspiracy or agreement against the Statutes or the State of the College, or against the President, Vice-Pre<g ref="char:EOLhyphen"/>sident,</hi>
+               <note place="margin">☞</note>
+               <hi>or any Fellow or Schollar thereof; or permit others to do so, as far as in him lay; or yield any assent, assistance, or advice to any such, either in publick or in private.</hi>
+            </p>
+            <p>
+               <hi>That he would not procure any dispensation of whatsoever kind, or name, or authority, against this Oath, or the Statutes, or any clause in either of them, directly or indirectly; or consent</hi>
+               <note place="margin">☞</note>
+               <hi>to, or use any such, though procured without his knowledge or desire.</hi>
+            </p>
+            <p>Yet two years after, when he was ad<g ref="char:EOLhyphen"/>mitted <hi>Probationer, Mar.</hi> 22. 1616. 17. he affirmed that he was <hi>sixteen</hi> the 20. of <hi>Octob.</hi> before. But when your Author ascri<g ref="char:EOLhyphen"/>bes<note place="margin">Pag. 2.</note> this early advancement <hi>before 18. of his Seniors,</hi> to his <hi>plying his Study,</hi> and the <hi>ap<g ref="char:EOLhyphen"/>plause
+<pb n="3" facs="tcp:205502:3"/> gotten</hi> by it, his following Parenthesis confutes himself, acknowledging it due to his Country, not to his deserts: Which therefore <hi>J. M.</hi> mentions more warily, on<g ref="char:EOLhyphen"/>ly<note place="margin">
+                  <hi>Page</hi> 67<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> as <hi>a thing seldom known in that house.</hi> But why did not he, or <hi>J. B.</hi> inform <hi>R. M.</hi> of<note place="margin">
+                  <hi>Page</hi> 61<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note> his mistake? For both of them must know it to be such, if they be the men whom those Letters suggest to most I meet with.</p>
+            <p>At this time, as also after another two years, when he was admitted actual <hi>Fellow,</hi> he took the same Oath in each of those par<g ref="char:EOLhyphen"/>ticulars: And together with these, he must as oft have taken the Oaths of <hi>Supremacy</hi> and <hi>Allegiance,</hi> which he repeted likewise at his admittance to the several Degrees of <hi>Bache<g ref="char:EOLhyphen"/>lor</hi> and <hi>Master</hi> of Arts, together with <hi>Sub<g ref="char:EOLhyphen"/>scription</hi> to the Doctrine, Discipline, and Worship established in the Church of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> as also at his several <hi>Ordinations</hi> (which your Authors silently pass by with the Oath of <hi>Canonical Obedience</hi> at his Institutions:) And lastly, when he took the Degree of <hi>Do<g ref="char:EOLhyphen"/>ctor,</hi> which your Author introduces with such a Story, as it seems by the Marginal note, he would have especially remarked.</p>
+            <p>
+               <hi>In the year 1635. it pleased the Authority</hi>
+               <note place="margin">Page 14<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+               </note>
+               <hi>of the Nation to permit sports and pastimes unto the people on the Lords day.</hi>] Over against these
+<pb n="4" facs="tcp:205502:4"/> words we find this note [<hi>for three years and a half.</hi>] Which if it have any fantastick refe<g ref="char:EOLhyphen"/>rence (to say no worse) to the <hi>three days and half</hi> mentioned, <hi>Revel.</hi> 11. 9, 11. so as to end his reckoning with the beginning of the <hi>Long</hi> Parliament; sure your Author will be found little better at interpreting Prophecies, than he is in telling Stories. For that <hi>De<g ref="char:EOLhyphen"/>claration</hi> (besides that it was but a renewing of a former of King <hi>James</hi> dated <hi>May</hi> 24. 1618.) was published <hi>Octob.</hi> 18. (not 1635. but) 1633. being the <hi>ninth</hi> of King <hi>Charles,</hi> and so, <hi>five</hi> whole years before the Long Parliament began, <hi>Nov.</hi> 3. 1640. And <hi>E. S.</hi> took the Degree of <hi>Doctor</hi> (what? on pur<g ref="char:EOLhyphen"/>pose to spoil this pretty parallel?) at the <hi>Act</hi> in <hi>July</hi> 1634. which your Author saith was <hi>during his suspension.</hi>
+               <note place="margin">Page 14.</note>
+            </p>
+            <p>Now for his performance there, no or<g ref="char:EOLhyphen"/>dinary matter will serve the turn; for that might well have been allowed him, when he had such a friend at his back, as the then Professor is known to have been to the men of his Metal. But if he had such <hi>wonderful</hi>
+               <note place="margin">Page 14.</note>
+               <hi>applause</hi> in both, why did your Author change the course, and make him an <hi>Opponent</hi> in the<note place="margin">Pag. 15.</note>
+               <hi>Vespers?</hi> was it to make it a little probable, that <hi>E. S.</hi> might then <hi>non plus Doctor</hi> some<g ref="char:EOLhyphen"/>body? for then it was, <hi>Jul.</hi> 12. that <hi>E. S.</hi> held this question negatively.</p>
+            <pb n="5" facs="tcp:205502:4"/>
+            <q>An Deus Author peccati ex Reformatorum placitis statuatur?</q>
+            <p>Shewing himself such an <hi>Herculean Champion</hi>
+               <note place="margin">Page 64.</note> for <hi>Calvin,</hi> as made his adversaries <hi>fingers Itch,</hi> and his good friends <hi>hiss,</hi> to which your<note place="margin">P. 14. 15.</note> Author unluckily subjoyns, that <hi>one call'd out for a Candle that the Doctor</hi> (somebody) <hi>might see his arguments;</hi> for what need the <hi>Doctor look</hi> for <hi>arguments,</hi> if <hi>E. S.</hi> were the <hi>Opponent?</hi>
+            </p>
+            <p>But <hi>in Comitiis</hi> on Munday following, <hi>Jul.</hi> 14. there was another Question dispu<g ref="char:EOLhyphen"/>ted, wherein this new Champion was more concerned in his own behalf to have shewed his skill, if it were so <hi>wonderful</hi> as your Au<g ref="char:EOLhyphen"/>thor would perswade us:</p>
+            <q>An Sanctificationi Diei Dominicae repug<g ref="char:EOLhyphen"/>nant quae siunt corporis recreandi gratia?</q>
+            <p>This being held Negatively by the Respon<g ref="char:EOLhyphen"/>dent,<note place="margin">T. L.</note> who, I think, is yet living, and <hi>E. S.</hi> being then one of the Opponents, it is a <hi>wonder,</hi> that when this darling Doctrine lay at stake, he would not venture one of his <hi>Herculean</hi> arguments to bring it fairly off, and justifie his own direct disobedience to <hi>the Authority of the Nation,</hi> both Civil and<note place="margin">Pag. 14.</note> Ecclesiastical, to both which, beside other Bonds, he was obliged by solemn Oath.</p>
+            <p>For, is not obedience to Superiors simply necessary, unless in this one case, when they
+<pb n="6" facs="tcp:205502:5"/> command something that is simply contrary to the Law of God? And is not the trans<g ref="char:EOLhyphen"/>gressing of a Solemn Oath in any other case a solemn Perjury? Now let them instance in any particular of that <hi>Declaration,</hi> which is as plain a breach of the <hi>Fourth</hi> Command<g ref="char:EOLhyphen"/>ment, as his Disobedience was of the <hi>Third</hi> and <hi>Fift.</hi>
+            </p>
+            <p>But supposing this observation of the <hi>Lords day</hi> to be a consequent from the <hi>fourth</hi> Commandment; yet how cometh it to be<note place="margin">Pag. 26. 29, 32.</note> such a special <hi>Evidence for Heaven</hi> above all the the other <hi>Nine?</hi> for we find none of them worth mentioning among these <hi>Evidences:</hi> Or what ground is there for that pretty <hi>Ob<g ref="char:EOLhyphen"/>servation,</hi> that it <hi>is one of the first things a con<g ref="char:EOLhyphen"/>verted</hi>
+               <note place="margin">Pag. 42.</note>
+               <hi>porson makes Conscience of?</hi> In all the New Testament (which I thought had been the Standard for such <hi>Marks</hi> and <hi>Evidences</hi>) there is not one word of Command, no nor of Commendation of it; but many reproofs of that <hi>Pharisaical</hi> Hypocrisie, that sets up this pretense of strictness in <hi>Sanctifying</hi> the <hi>Sabbath,</hi> against the common offices of cha<g ref="char:EOLhyphen"/>rity and humanity.</p>
+            <p>VVhat follows of <hi>the Assembly of Divines,</hi>
+               <note place="margin">Pag. 15.</note> and the part of <hi>E. S. amongst them,</hi> is but a further instance of his large Conscience in point of <hi>Obedience</hi> and of <hi>Oaths:</hi> For this
+<pb n="7" facs="tcp:205502:5"/>
+               <hi>Assembly,</hi> (as also their <hi>Covenant,</hi> and their <hi>Directory,</hi> both passed over in wary silence by your Author) being expresly <hi>forbidden</hi> by the King, it lies at the door of <hi>E. S.</hi> and his friends, to shew some <hi>Command</hi> of Gods ex<g ref="char:EOLhyphen"/>presly contrary to the Kings.</p>
+            <p>
+               <hi>In the Year 1648. there were Visitors ap<g ref="char:EOLhyphen"/>pointed</hi>
+               <note place="margin">Pag. 16.</note>
+               <hi>for the Ʋniversity of</hi> Oxford, <hi>who dis<g ref="char:EOLhyphen"/>charged Dr.</hi> Newlin <hi>from his Headship in</hi> C. C. C. <hi>and no man was thought so fit to suc<g ref="char:EOLhyphen"/>ceed in that place as Dr.</hi> Stanton.] Your<note place="margin">Pag. 69.</note> Authors handle this business very gently, well considering that it would be never the sweeter for much stirring. Had they thought fit to trust their devout Readers with the whole truth. It would have then appeared a little too plain, by <hi>Whom</hi> these <hi>Visitors were appointed,</hi> (that is, by a piece of a Par<g ref="char:EOLhyphen"/>liament, with a Commission forged in the Kings Name, under a Counterfeit Seal, the making of which was High Treason;) and <hi>Why they discharged Dr.</hi> Newlin, (for no other misdemeanour, but refusing to betray the Rights of the College, which he was sworn to defend; and in particular, to sub<g ref="char:EOLhyphen"/>mit to <hi>no other</hi> Visitor there but the Bishop of <hi>Winchester:</hi>) So that even <hi>the Inhabitants of the</hi> good <hi>Town of Kingston</hi> might have dis<g ref="char:EOLhyphen"/>cerned the true reason, why <hi>no man was
+<pb n="8" facs="tcp:205502:6"/> thought so fit to succeed as Dr. S.</hi> If <hi>D. N.</hi> be so stubborn that he will not break three or four Oaths for the good of the <hi>Cause,</hi> they must have one that will; and who <hi>so fit</hi> as he, that had given some publick proof of his abilities that way?</p>
+            <p>When <hi>E. S. gave</hi> the <hi>Fidler money</hi> to<note place="margin">P. 50, 51.</note>
+               <hi>forbear</hi> his <hi>swearing,</hi> no Christian but would have thought it a commendation for him, in any mans mouth besides his own: <note n="*" place="margin">V. p. 12, 15, 23, 24, 29.</note> But when the same <hi>E. S.</hi> could be hired by an <hi>headship</hi> wrongfully taken from the honest owner, to a deliberate and continued breach of so many solemn <hi>Oaths;</hi> which was the better Christian, the <hi>Fidler</hi> or the <hi>Puritan?</hi>
+               <note place="margin">Pag. 15.</note> (as you know who may call <hi>E. S.</hi>) Some particulars of those <hi>Oaths</hi> you may see be<g ref="char:EOLhyphen"/>fore; against which, and the whole current of the <hi>Statutes,</hi> it was for him to accept the headship, or even to <hi>assent</hi> to any of those proceedings against the true <hi>President, Fellows,</hi> and <hi>Scholars.</hi>
+            </p>
+            <p>Such being his entrance, it is no great matter what his <hi>Government,</hi> and <hi>Conver<g ref="char:EOLhyphen"/>sation,</hi> and the success of both was: yet be it left to the suffrage of his Contemporaries there, both Citizens and Gown-men, whe<g ref="char:EOLhyphen"/>ther <hi>E. S.</hi> and his Disciples were held any<note place="margin">P. 18. 78.</note> thing wiser or honester than their neighbors.
+<pb n="9" facs="tcp:205502:6"/> And so I meddle not with the truth, but on<g ref="char:EOLhyphen"/>ly note the prettiness of one remark, where<g ref="char:EOLhyphen"/>with<note place="margin">Pag. 69. Pag. 18.</note>
+               <hi>J. M.</hi> begins the <hi>blessed</hi> regiment of <hi>E. S.</hi> there, that <hi>though the House, before his time, had been much troubled with divisions; he, by his</hi> moderation, <hi>and</hi> Christian pru<g ref="char:EOLhyphen"/>dence, <hi>kept them all of a piece.</hi>] This calls to mind the <hi>Roman</hi> way of <hi>making Peace,</hi> which the old <hi>Britain</hi> observes in <hi>Tacitus,</hi>
+               <note place="margin">Tacit. in Vit. Agr.</note>
+               <hi>Ʋbi solitudinem faciunt, pacem appellant;</hi> so that it seems, the invention is not only new, to make a general <hi>ruine,</hi> and <hi>call</hi> it a thorow <hi>Reformation;</hi> to turn out a <hi>whole</hi> College, that they might not be <hi>troubled with divisions;</hi> and bring in a new brood, that they might be <hi>all of a piece:</hi> And then, it requires no great <hi>prudence</hi> to <hi>keep</hi> them so, or <hi>moderation,</hi> for like to take <hi>contentment</hi> in their like. The on<g ref="char:EOLhyphen"/>ly<note place="margin">Pag. 78.</note> pity is, that for the compleating of their <hi>joy, E. S.</hi> and <hi>J. A. lived</hi> not <hi>to see the Re<g ref="char:EOLhyphen"/>lation of</hi> each others <hi>Life published.</hi>
+            </p>
+            <p>
+               <hi>In the year 1660. being discharged from</hi>
+               <note place="margin">Pag. 18.</note>
+               <hi>the College—</hi>] Your Author treads as wari<g ref="char:EOLhyphen"/>ly in leading <hi>E. S.</hi> out of the College, as he did in bringing him in. Had he but added the reason of his removal, that the time was now come, when Providence began to vindi<g ref="char:EOLhyphen"/>cate it self from the blasphemies of those that made their good success in wickedness,
+<pb n="10" facs="tcp:205502:7"/> an evidence of their Saintship; and conse<g ref="char:EOLhyphen"/>quently, usurpers were forced to let go what they had wrongfully with-held from the right owners; among whom <hi>E. S.</hi> had a share in the same dispensation that made so many <hi>sad hearts:</hi> it would the better have<note place="margin">Pag. 19.</note> appeared, whether his leaving <hi>Oxford</hi> were so <hi>much-what like</hi> Paul'<hi>s departure from</hi> Ephe<g ref="char:EOLhyphen"/>sus,<note place="margin">Pag. 19. Act. 19. 9.</note>
+               <hi>taking his last leave.—</hi>] Had <hi>Paul</hi> thrust <hi>Tyrannus</hi> out of his <hi>School,</hi> and kept posses<g ref="char:EOLhyphen"/>sion against him for some years, till <hi>Caesar</hi> had recovered strength to restore the right owner? Or could <hi>E. S.</hi> say at parting, <hi>I have coveted no mans silver, or gold, or ap<g ref="char:EOLhyphen"/>parel?</hi>
+               <note place="margin">Act. 20. 33, 34.</note> Or, did his <hi>dear Friends,</hi> and <hi>Scholars, see his face no more</hi> (and that in <hi>Oxford</hi>) after<note place="margin">V. 38. Pag. 19.</note> this <hi>sad parting?</hi>
+            </p>
+            <p>But your Author hath a special faculty at comparisons, and none so fit as the <hi>great A<g ref="char:EOLhyphen"/>postle</hi>
+               <note place="margin">P. 21. p. 7. 27. Rom. 15. 19. P. 20. 21. Rom. 15. 19. Ver. 20. Pag. 20.</note> to match with <hi>E. S.</hi> at least in point of <hi>preaching,</hi> and <hi>the power of the Spirit.</hi>] But does he think, that <hi>twenty Parishes</hi> about <hi>Rickmersworth,</hi> may be set against as many <hi>Provinces, from</hi> Jerusalem <hi>and round about unto</hi> Illyricum? Or, <hi>was not Christ named</hi> in those parts before, till <hi>E. S. preached the Gos<g ref="char:EOLhyphen"/>pel of the Kingdom in</hi> so many new Pulpits?</p>
+            <p>After <hi>Paul</hi> and <hi>Apollos,</hi> nay, and <hi>Christ</hi>
+               <note place="margin">P. 38. 22. Pag. 55.</note> himself, it must be no disparagement for <hi>the
+<pb n="11" facs="tcp:205502:7"/> famous Doctor John Reynolds,</hi> yes, and <hi>John</hi>
+               <note place="margin">Pag. 16. Pag. 64.</note>
+               <hi>Calvin</hi> too, to be paired with <hi>E. S.</hi> though Few, I think, beside your Authors, can see any such great likeness between him and them, but that he had the luck to leap into the place of the one, and the opinion of the other.</p>
+            <p>If now a man should take as large a liber<g ref="char:EOLhyphen"/>ty in Satyre, as these Romantick Writers have done in Panegyrick, what variety of matter might be met with almost in every page? But because that way of proceeding might be more likely to please the profane, than to humble the hypocrite; I shall only ask these two questions:</p>
+            <p>
+               <hi>Whether it be consistent with</hi> Saintship, <hi>to live in open and notorious</hi> Perjury <hi>and</hi> Rob<g ref="char:EOLhyphen"/>bery, (for <hi>twelve</hi> years together; and, for ought appears by these Authors, for <hi>eleven</hi> more;) <hi>without any publick testi<g ref="char:EOLhyphen"/>mony of Repentance for such publick scandals?</hi>
+            </p>
+            <p>
+               <hi>Whether</hi> restitution <hi>of goods wrongfully got<g ref="char:EOLhyphen"/>ten, be not a necessary ingredient in</hi> repentance?</p>
+            <p>If your Author were in <hi>earnest</hi> in his<note place="margin">Pag. 57.</note>
+               <hi>Prayer, that God would use his Narrative for the doing some good in the World;</hi> he, know<g ref="char:EOLhyphen"/>ing so well, that <hi>many are infected with the vi<g ref="char:EOLhyphen"/>ces</hi>
+               <note place="margin">Ibid.</note>
+               <hi>of good men,</hi> should have taken care to prevent these questions; which will not now
+<pb n="12" facs="tcp:205502:8"/> be solved by their one general answer, that all this is but <hi>railing.</hi> Let them first shew, in what particular it is false. If this be <hi>ma<g ref="char:EOLhyphen"/>culas</hi>
+               <note place="margin">Pag. 61. Pag. 62.</note>
+               <hi>conspergere nigras, I. B.</hi> may do well to lay aside his <hi>Anagrams</hi> and <hi>Acrosticks,</hi> till he hath washed off these <hi>little spots;</hi> which had they been found in one of the wicked, all the water that runs under <hi>Kingston</hi>-Bridge, would not have done. But great is the Pri<g ref="char:EOLhyphen"/>viledge of the <hi>Saints.</hi>
+            </p>
+            <p>Had they thus painted the Sepulcher of a<note place="margin">Mat. 23. V. 27, 28. Luke 11. 44. Pag. 23.</note> false Prophet, only in kindness to the dead, without designe to intrap the living, <hi>E. S.</hi> might have slept, for me, in as much <hi>silence</hi> as <hi>litle Bovingden</hi> hath stood, till these Poets must needs make them both famous. But since we cannot now be rid of a pelting Non-conformist, but presently we must have a brazen Legend to out-face <hi>the World,</hi>
+               <note place="margin">Epis. Ded. Pag. 11. Pag. 56.</note> that he is <hi>one of the fairest Copies that this age hath produced;</hi> (as if Non-conformity were of such virtue, as presently to transform e<g ref="char:EOLhyphen"/>very Goose into a Swan:) they must give us leave to take notice, what a <hi>fair age</hi> we live in; and what <hi>good works</hi> we are like to<note place="margin">Pag. 56.</note> have, when such are <hi>set before</hi> us for <hi>patterns</hi> of them, whose <hi>grace</hi> and <hi>godliness</hi> is <hi>distinct</hi>
+               <note place="margin">Pag. 57.</note>
+               <hi>from Moral virtue and righteousness:</hi> When both the <hi>Champions</hi> and the <hi>Chaplanes</hi> of the
+<pb n="13" facs="tcp:205502:8"/>
+               <hi>Good Old Cause,</hi> must be represented to the <hi>VVorld</hi> for <hi>Saints,</hi> men that <hi>have</hi>
+               <note n="†" place="margin">
+                  <hi>Life of Sir</hi> H. Vane <hi>Tit.</hi>
+               </note>
+               <hi>resisted unto blood, who</hi>
+               <note n="*" place="margin">
+                  <hi>Speeches</hi> and <hi>Prayers</hi> of some of the late <hi>Kings Jud<g ref="char:EOLhyphen"/>ges, 1660. Tit.</hi>
+               </note>
+               <hi>being dead, yet speak;</hi> such as <hi>H. Vane, Harison,</hi> and the Tribe of <hi>Regi<g ref="char:EOLhyphen"/>cides</hi> (as many as have yet had their wages paid) not forgetting <note n="*" place="margin">
+                  <hi>Ibid.</hi> p. 58</note>
+               <hi>Hugh Peters</hi> among the rest: (A man, by the way, not unknown to <hi>E. S.</hi> by the good token of a <hi>Diner,</hi> and a <hi>Speech</hi> in the College-Hall.</p>
+            <p>Your Author may reply, that these are no fit Yoke-fellows for <hi>E. S.</hi> who was no Actor in those bloodier parts of the Tragedy. Be it so, (though some will say, he was a Complier with those Actors, and fitter company for <hi>Peters,</hi> than for <hi>Paul,</hi>) I urge it no further, than to let you see, that every one is not a Saint, that leaves some or other of the Gang behind him, impudent enough to out-face Law and Justice, and by some patcht <hi>Memoires,</hi> to dress up a Malefactor in the disguise of a Martyr. This may serve the turn with their own party, prepared to believe, that all is gold which they say gli<g ref="char:EOLhyphen"/>sters: But surely, the rest <hi>of the World,</hi> and<note place="margin">Epis. Ded. Pag. 11. Pag. 52.</note>
+               <hi>all Posterity,</hi> will hardly be perswaded, that these demure <hi>Christian Conferences, Occasio<g ref="char:EOLhyphen"/>nal Discourses, Legacies</hi> and <hi>Letters, Speeches</hi>
+               <note place="margin">v. <hi>ut supra</hi>
+               </note> and <hi>Prayers,</hi> can make amends for <hi>Perjury</hi> and <hi>Rebellion, Robbery</hi> and <hi>Murther:</hi> Nay,
+<pb n="14" facs="tcp:205502:9"/> change their nature, and make them virtues in the <hi>Saints,</hi> which in the wicked were the worst of Villanies.</p>
+            <p>The mention of these things may sound a little harsh to you, that know these men but by their own relation, for herein lies their only strength and policy, (borrowed from their elder Brethren of the <hi>Romish Conven<g ref="char:EOLhyphen"/>ticle</hi>) to possess their Proselites with some prejudice against whatever Book, Discourse, or Person, that may discover their <hi>hypocrisie.</hi>
+            </p>
+            <p>If the truth be so plain, that it cannot be denied, or evaded, it is enough to say, it sa<g ref="char:EOLhyphen"/>vours of a <hi>profane spirit,</hi> to rip up the <hi>failings</hi> of the <hi>Godly:</hi> But is it not more <hi>profane,</hi> to set up those for <hi>Saints,</hi> and <hi>patterns</hi> of <hi>Godliness,</hi> that have lived in such <hi>open</hi> sins, without any testimony or token of repen<g ref="char:EOLhyphen"/>tance?</p>
+            <p>With private matters I meddle not, much less with hearsays, or surmises, which are easily raised, or amplified, and hardly disproved: These few things I insist on, are so publick, that by an easy inquiry you may satisfie your self of the truth, or convince me of the falshood. The only favour I de<g ref="char:EOLhyphen"/>sire in the trial, is, that you do not presup<g ref="char:EOLhyphen"/>pose your Authors to be infallible.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:205502:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
